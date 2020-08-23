@@ -2,6 +2,8 @@ Hi! I'm a father of three, husband, web geek, lover of containers, cloud nut, fe
 
 Currently working on a book - watch this space: [wsl.tips](https://wsl.tips)
 
+Blogging at [stuartleeks.com](https://stuartleeks.com)
+
 Pronouns: he/him
 
 <!--
