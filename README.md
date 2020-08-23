@@ -1,5 +1,7 @@
 Hi! I'm a father of three, husband, web geek, lover of containers, cloud nut, feminist, performance & scalability enthusiast, salsa dancer & teacher, and love bad puns. I've been writing code since the days of the BBC Micro and still get a kick out of it. Currently working as a Software engineer at Microsoft, but enjoy messing about with pet projects in my spare time.
 
+Currently working on a book - watch this space: [wsl.tips](https://wsl.tips)
+
 Pronouns: he/him
 
 <!--
