@@ -1,7 +1,11 @@
-### Hi there 👋
+Hi! I'm a father of three, husband, web geek, lover of containers, cloud nut, feminist, performance & scalability enthusiast, salsa dancer & teacher, and love bad puns. I've been writing code since the days of the BBC Micro and still get a kick out of it. Currently working as a Software engineer at Microsoft, but enjoy messing about with pet projects in my spare time.
+
+Pronouns: he/him
 
 <!--
 **stuartleeks/stuartleeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
