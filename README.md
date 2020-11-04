@@ -1,8 +1,8 @@
 Hi! I'm a father of three, husband, web geek, lover of containers, cloud nut, feminist, performance & scalability enthusiast, salsa dancer & teacher, and love bad puns. I've been writing code since the days of the BBC Micro and still get a kick out of it. Currently working as a Software engineer at Microsoft, but enjoy messing about with pet projects in my spare time.
 
-Currently working on a book - watch this space: [wsl.tips](https://wsl.tips)
+I've written a book full of tips for the Windows Subsystem for Linux (WSL), Windows Terminal, Docker, Kubernetes and Visual Studio Code: [wsl.tips](https://wsl.tips)
 
-Blogging at [stuartleeks.com](https://stuartleeks.com)
+I blog at [stuartleeks.com](https://stuartleeks.com)
 
 Pronouns: he/him
 
